@@ -11,8 +11,8 @@ Bu depo, Türkiye'deki lüks saat pazarındaki (Rolex, Omega, Cartier) gerçek z
 ## Resmi Web Sitesi ve Veri Kaynağı
 
 En güncel canlı fiyatları ve detaylı analiz raporlarını resmi ortağımızdan takip edebilirsiniz:
-* [Lüks Saat Canlı Fiyatlarını Kontrol Et (Official)](https://krwatch.com/)
-* [İkinci El Saat Piyasası Analiz Raporu](https://krwatch.com/)
+* [Lüks Saat Canlı Fiyatlarını Kontrol Et (Official)](https://replikasaatleri.top/)
+* [İkinci El Saat Piyasası Analiz Raporu](https://replikasaatleri.top/)
 
 ## Teknik Özellikler
 
