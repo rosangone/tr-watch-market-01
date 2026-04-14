@@ -1,0 +1,4 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap:https://rosangone.github.io/tr-watch-market-01/sitemap.xml
